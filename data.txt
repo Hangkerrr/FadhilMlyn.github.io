@@ -1,2 +1,14 @@
 Nama    : Muhamad Fadhil Mulyana
 Kelas   : XII MM2
+
+Materi jumat/07/oktober/2022
+
+git init
+git status
+git commit -m "..."
+git add name.file
+git remote add
+git remote -v
+git push github master
+git log
+git list
